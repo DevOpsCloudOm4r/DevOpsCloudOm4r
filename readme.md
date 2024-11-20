@@ -76,18 +76,17 @@ timeline
   Live operation on Github-Pages: [codingDocs](https://p76ers.github.io/)
   > Documentation Website about my Coding-Experience
 - Umschulung [@cbm](https://cbm-projektmanagement.de/) (Bildungsträger)
-  - Vorlesung repositories 
+  - Projekte
     - [NetzwerkGrundlagen](https://github.com/Devops-Omar/NetzwerkGrundlagen)
     - [php & Kubernnetes](https://github.com/Devops-Omar/k8s-project)
-    - [OOP mit c# @console](https://github.com/P76ers/cSharp) 
-    - [python](https://github.com/P76ers/python)
-    - [c# @console](https://github.com/P76ers/CSharpAdvancedConsole) `Modul für Anwendungsentwickler`
-    - [c# @windowsForms](https://github.com/P76ers/cSharpWindowsForms) `Modul für Anwendungsentwickler`
-    - [java @console](https://github.com/P76ers/javaConsole) `Modul für Anwendungsentwickler`
-    - [javaFx](https://github.com/P76ers/javaFX) `Modul für Anwendungsentwickler`
-  - Projekte
-    - [SpDesign](https://github.com/P76ers/SpDesign)  `Website about a men's outfitter @php @html @css @js @mySql`
-    - [serviceOne](https://github.com/P76ers/ServiceOne)  `Windows-Forms Databasemanagementsystem @c# @mySql`
+    -  
+    - 
+    - 
+    - 
+    - 
+    - 
+  
+   
 
 ## contact me
 
