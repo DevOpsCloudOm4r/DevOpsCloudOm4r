@@ -78,8 +78,7 @@ timeline
 - Umschulung [@cbm](https://cbm-projektmanagement.de/) (Bildungsträger)
   - Vorlesung repositories 
     - [NetzwerkGrundlagen](https://github.com/Devops-Omar/NetzwerkGrundlagen)
-    - [sql](https://github.com/P76ers/sql)
-    - [php](https://github.com/P76ers/php)
+    - [php & Kubernnetes](https://github.com/Devops-Omar/k8s-project)
     - [OOP mit c# @console](https://github.com/P76ers/cSharp) 
     - [python](https://github.com/P76ers/python)
     - [c# @console](https://github.com/P76ers/CSharpAdvancedConsole) `Modul für Anwendungsentwickler`
