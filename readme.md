@@ -16,11 +16,10 @@ mindmap
 
 ```java
 public class About extends Me{
-    public String nickname = "P";
+    public String name = "Omar";
     public String city = "Hamburg";
-    public String current_work = "Software Developer Apprentice";
-    private String[] hobbies = { "Basketball", "Handwerken", "Coding" };
-
+    public String current_work = "Cloud & Devops Apprentice";
+    
     private void Ambitions() {
         FindInternship();
         CreateSkyNet();
