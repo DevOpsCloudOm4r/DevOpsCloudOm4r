@@ -32,32 +32,41 @@ public class About extends Me{
 ```mermaid
 %%{init: { 'logLevel': 'debug', 'theme': 'dark' } }%%
 timeline
-    title my coding adventure
-    section privat
-    2022: Java ist eine Insel
-      : git
-      : docusaurus | react
-      : markdown | mdx
-      : html, css, Javascript
+    title my adventure in IT 
+     section  IT Phase
+     2010 - 2019
+      : Kurs in ICDL (Microsoft Office) Certificated bei New Horizons Center, Aden/Jemen
+      : Kurs in C++ ( Programming & Problem-Solving Concepts Certificated ) bei New Horizons Center, Aden/Jemen
+      : Kurs in A+ ( professional in installing, maintaining, customizing & operation system Certificate ) bei New Horizons Center, Aden/Jemen
+      : 1 & 2 Level Support. Computer-Wartung & Netzwerk in IT-Unternehmen Aden / Jemen
+      : Praktikum. Mitarbeit bei PC DOKTOR, EDV, Computer Wartung, Computer Abbau/Aufbau & Problemlösung PC Docktor GmbH * Willinghusener Weg 22113 Oststeinbek
+      : Ausbildung Fachinformatiker Systemintegration Computer-Wartung, Netzwerk, Server, Probleme beheben bei Multi-Lite in Senefelder-Ring 61, 21465 Reinbek
+    section Private
+    2023: Cloud & Devops
+      : AWS Certified Cloud Parctitioner & Architect Associate + Lab Guides Included
+      : Red Hat Certified System Administrator (RHCSA) + Hands-on-Lab
+      : Git / GitHub  Hand-on-Lab
+      : Python Scripting for AWS Automation + Hands-on-Lab
+      : Docker Mastery + Hands-on-Lab
+      : Kubernetes Mastry + Hands-on-Lab
+      : Microsoft Azure Cloud Fundamentals + Hands-on-Lab
+      : CI/CD Using Jenkins & GitHub Actions + Hands-on-Lab
+      : RedHat Certified Engineer (RHCE) + Ansible on AWS Cloud
     section Umschulung 
-      2023: cbm Projektmanagement GmbH
+      2024: cbm Projektmanagement GmbH
           : Grundlagen PC-Technik
           : Grundlagen DV-Systeme
           : Grundlagen relative Datenbanken mit SQL
-          : Grundlagen prozedurale Programmierung C / C++
+          : c prozedurale Programmierung C / C++
           : Webtechnologien HTML, CSS, Javascript, PHP
-      2024: cbm Projektmanagement GmbH
-          : Projekt dynamische Webseiten
-          : Grundlagen OOP
-          : Cyberphysische Programmierung Python
-          : Grundlagen Netzwerktechnik
-          : OOP mit Csharp
-          : Projekt Csharp
-          : it-Scherheit
-          : OOP mit Java
-          : Projekt Java
-          : Projektmanagement klassisch / agil
-          : Praktikum
+          : Grundlagen Netzwerk
+          : Grundlagen Programmierung mit Python
+          : Cyberphsische Systeme entwicklen mit Python
+          : Sicherheit in der IT
+          : Windows-Server / Active Directory
+          : Widnows-Exchange Server
+          : Betriebssystem Unix/Linux
+          : Linux-Netzwerke
       2025: Praktikum
     section future
       2026: about to come
