@@ -36,7 +36,7 @@ timeline
       : Kurs in ICDL (Microsoft Office) Certificated bei New Horizons Center, Aden/Jemen
       : Kurs in C++ ( Programming & Problem-Solving Concepts Certificated ) bei New Horizons Center, Aden/Jemen
       : Kurs in A+ ( professional in installing, maintaining, customizing & operation system Certificate ) bei New Horizons Center, Aden/Jemen
-      : 1 & 2 Level Support. Computer-Wartung & Netzwerk in IT-Unternehmen Aden / Jemen
+      : IT Help Desk .Computer-Wartung & Netzwerk in IT-Unternehmen Aden / Jemen
       : Praktikum. Mitarbeit bei PC DOKTOR, EDV, Computer Wartung, Computer Abbau/Aufbau & Problemlösung PC Docktor GmbH * Willinghusener Weg 22113 Oststeinbek
       : Ausbildung Fachinformatiker Systemintegration Computer-Wartung, Netzwerk, Server, Probleme beheben bei Multi-Lite in Senefelder-Ring 61, 21465 Reinbek
     section Private
