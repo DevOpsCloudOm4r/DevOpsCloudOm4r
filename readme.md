@@ -92,7 +92,7 @@ timeline
 
 ## contact me
 
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mail@jayrajroshan1@gmail.com)](omar.membership@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:omar.membership@gmail.com)](mailto:omar.membership@gmail.com)
 
 ## Skills
 
