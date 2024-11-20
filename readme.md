@@ -1,5 +1,5 @@
 <p align="center">
-<img src="./github.png" alt="Omar" width="100px" height="100px">
+//<img src="./github.png" alt="Omar" width="100px" height="100px">
 </p>
 
 ```mermaid
