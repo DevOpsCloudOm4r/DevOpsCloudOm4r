@@ -75,9 +75,8 @@ timeline
   - [AWS](https://github.com/Devops-Omar/AWS_Projects)
 - Umschulung [@cbm](https://cbm-projektmanagement.de/) (Bildungsträger)
   - Projekte
-    - [NetzwerkGrundlagen](https://github.com/Devops-Omar/NetzwerkGrundlagen)
     - [php & Kubernnetes](https://github.com/Devops-Omar/k8s-project)
-    -  
+    - [NetzwerkGrundlagen](https://github.com/Devops-Omar/NetzwerkGrundlagen) 
     - 
     - 
     - 
