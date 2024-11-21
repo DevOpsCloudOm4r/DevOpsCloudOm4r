@@ -71,10 +71,8 @@ timeline
 ```
 
 ## projects
-- [P76ers.github.io ](https://github.com/P76ers/P76ers.github.io) aka `codingDocs`
-  
-  Live operation on Github-Pages: [codingDocs](https://p76ers.github.io/)
-  > Documentation Website about my Coding-Experience
+- Aws
+  - [AWS](https://github.com/Devops-Omar/AWS_Projects)
 - Umschulung [@cbm](https://cbm-projektmanagement.de/) (Bildungsträger)
   - Projekte
     - [NetzwerkGrundlagen](https://github.com/Devops-Omar/NetzwerkGrundlagen)
