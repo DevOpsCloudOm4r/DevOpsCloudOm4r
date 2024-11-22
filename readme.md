@@ -76,8 +76,7 @@ timeline
 - Docker
   - [Docker](https://github.com/Devops-Omar/Docker-Project)
 - Kubernetes
-  - [Kubernets](https://github.com/Devops-Omar/k8s-project)
-  -   
+  - [Kubernets](https://github.com/Devops-Omar/K8s/blob/main/README.md)
 - Umschulung [@cbm](https://cbm-projektmanagement.de/) (Bildungsträger)
   - Projekte
     - [php & Kubernnetes](https://github.com/Devops-Omar/k8s-project)
