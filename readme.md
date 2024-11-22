@@ -127,7 +127,7 @@ timeline
   </a>
   <br>
   <a href="https://www.proxmox.com/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/f/f1/Proxmox_VE_logo.svg" alt="Proxmox Logo" width="50" height="50"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3a/Proxmox_logo.svg" alt="Proxmox Logo" width="50" height="50" />
   </a>
   <a href="https://www.terraform.io/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" alt="Terraform" width="40" height="40" />
