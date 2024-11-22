@@ -108,7 +108,7 @@ timeline
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg"alt="Windows" width="50" height="50" />
   </a>
   <a href="https://www.docker.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" alt="Docker" width="50" height="50" />
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" alt="Docker" width="50" height="50" />
   </a>
   <a href="https://kubernetes.io/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-original.svg" alt="Kubernetes" width="50" height="50" />
@@ -123,7 +123,7 @@ timeline
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" alt="Jenkins" width="40" height="40" />
   </a>
   <a href="https://learn.microsoft.com/en-us/virtualization/hyper-v-on-windows/about/" target="_blank">
-  <img src="https://icons8.com/icon/40570/hyper-v" alt="Hyper-V" width="50" height="50" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/34/Hyper-V_logo.png" alt="Hyper-V" width="50" height="50" />
   </a>
   <br>
   <a href="https://www.proxmox.com/" target="_blank">
