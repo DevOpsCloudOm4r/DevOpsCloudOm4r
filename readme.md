@@ -73,6 +73,10 @@ timeline
 ## projects
 - Aws
   - [AWS](https://github.com/Devops-Omar/AWS_Projects)
+- Docker
+  - [Docker](https://github.com/Devops-Omar/Docker-Project)
+- Kubernetes
+  - [Kubernets]   
 - Umschulung [@cbm](https://cbm-projektmanagement.de/) (Bildungsträger)
   - Projekte
     - [php & Kubernnetes](https://github.com/Devops-Omar/k8s-project)
