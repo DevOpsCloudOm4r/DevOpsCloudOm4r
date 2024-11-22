@@ -122,6 +122,9 @@ timeline
   <a href="https://www.autohotkey.com/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" alt="Jenkins" width="40" height="40" />
   </a>
+  <a href="https://learn.microsoft.com/en-us/virtualization/hyper-v-on-windows/about/" target="_blank">
+  <img src="https://icons8.com/icon/40570/hyper-v" alt="Hyper-V" width="50" height="50" />
+  </a>
   <br>
   <a href="https://www.proxmox.com/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/f/f1/Proxmox_VE_logo.svg" alt="Proxmox Logo" width="50" height="50"/>
