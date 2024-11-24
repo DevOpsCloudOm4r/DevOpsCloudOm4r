@@ -134,6 +134,10 @@ timeline
   <a href="https://www.proxmox.com/" target="_blank">
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/3a/Proxmox_logo.svg" alt="Proxmox Logo" width="50" height="50" />
   </a>
+  <a href="https://www.pfsense.org/" target="_blank"> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pfsense/pfsense-original.svg" alt="pfsense" width="50" height="50"/> 
+  <i class="devicon-pfsense-original"></i>        
+  </a>
   <a href="https://www.terraform.io/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" alt="Terraform" width="40" height="40" />
   </a>
