@@ -71,11 +71,16 @@ timeline
 ```
 
 ## projects
-- Aws
+
+**Aws**
   - [AWS](https://github.com/Devops-Omar/AWS_Projects)
-- Docker
+
+**Docker**
+
   - [Docker](https://github.com/Devops-Omar/Docker-Project)
-- Kubernetes
+
+**Kubernetes**
+
   - [Kubernets](https://github.com/Devops-Omar/K8s)
     
 **Umschulung [@cbm](https://cbm-projektmanagement.de/) (Bildungsträger)**
