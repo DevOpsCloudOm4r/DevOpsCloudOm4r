@@ -85,9 +85,6 @@ timeline
     - [IT-Security](https://github.com/DevOpsCloudOm4r/IT-Scueity)
     - 
     - 
-    - 
-    - 
-  
    
 
 ## contact me
