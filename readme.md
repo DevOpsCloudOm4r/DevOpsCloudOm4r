@@ -77,14 +77,15 @@ timeline
   - [Docker](https://github.com/Devops-Omar/Docker-Project)
 - Kubernetes
   - [Kubernets](https://github.com/Devops-Omar/K8s)
-- Umschulung [@cbm](https://cbm-projektmanagement.de/) (Bildungsträger)
-  - Projekte
-    - [php & Kubernnetes](https://github.com/Devops-Omar/k8s-project)
-    - [NetzwerkGrundlagen](https://github.com/Devops-Omar/NetzwerkGrundlagen)
-    - [Vertiefung_Netwerkgrundlagen](https://github.com/DevOpsCloudOm4r/Vertiefung_Netwerkgrundlagen)
-    - [IT-Security](https://github.com/DevOpsCloudOm4r/IT-Scueity)
-    - 
-    - 
+**Umschulung [@cbm](https://cbm-projektmanagement.de/) (Bildungsträger)**
+
+- Projekte
+  - [php & Kubernnetes](https://github.com/Devops-Omar/k8s-project)
+  - [NetzwerkGrundlagen](https://github.com/Devops-Omar/NetzwerkGrundlagen)
+  - [Vertiefung_Netwerkgrundlagen](https://github.com/DevOpsCloudOm4r/Vertiefung_Netwerkgrundlagen)
+  - [IT-Security](https://github.com/DevOpsCloudOm4r/IT-Scueity)
+  - 
+  - 
    
 
 ## contact me
