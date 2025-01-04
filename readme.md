@@ -164,5 +164,7 @@ timeline
 </div>
 
 
-![Snake animation](https://github.com/DevOpsCloudOm4r/DevOpsCloudOm4r/raw/output/github-contribution-grid-snake.svg)
+## 📊 My GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DevOpsCloudOm4r&show_icons=true&theme=radical)
+
 
