@@ -162,9 +162,3 @@ timeline
     <img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" alt="VS Code" width="40" height="40" />
   </a>
 </div>
-
-
-## 📊 My GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DevOpsCloudOm4r&show_icons=true&theme=radical)
-
-
