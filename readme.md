@@ -164,4 +164,5 @@ timeline
 </div>
 
 
+![Snake animation](https://github.com/DevOpsCloudOm4r/DevOpsCloudOm4r/raw/output/github-contribution-grid-snake.svg)
 
