@@ -17,7 +17,7 @@ mindmap
 public class About extends Me{
     public String name = "Omar";
     public String city = "Hamburg";
-    public String current_work = "Cloud & Devops Apprentice";
+    public String current_work = "Junior Cloud & DevOps Engineer";
     
     private void Ambitions() {
         FindInternship();
