@@ -90,7 +90,7 @@ timeline
   - [NetzwerkGrundlagen](https://github.com/Devops-Omar/NetzwerkGrundlagen)
   - [Vertiefung_Netwerkgrundlagen](https://github.com/DevOpsCloudOm4r/Vertiefung_Netwerkgrundlagen)
   - [IT-Security](https://github.com/DevOpsCloudOm4r/IT-Scueity)
-  - [**IHK final project (Fachinformatiker Systemintegration)**]https://github.com/DevOpsCloudOm4r/secure-nextcloud-dmz-vpn-vps_relay
+  - [IHK final project]https://github.com/DevOpsCloudOm4r/secure-nextcloud-dmz-vpn-vps_relay
    
 
 ## contact me
