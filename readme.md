@@ -135,7 +135,7 @@ timeline
   </a>
   <br>
   <a href="https://www.proxmox.com/" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3a/Proxmox_logo.svg" alt="Proxmox Logo" width="50" height="50" />
+  <img width="590" height="512" alt="image" src="https://github.com/user-attachments/assets/ab6b6d13-11cf-4af1-b156-a830c498b9ac" />
   </a>
   <a href="https://www.pfsense.org/" target="_blank"> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pfsense/pfsense-original.svg" alt="pfsense" width="50" height="50"/> 
