@@ -131,7 +131,7 @@ timeline
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" alt="Jenkins" width="40" height="40" />
   </a>
   <a href="https://learn.microsoft.com/en-us/virtualization/hyper-v-on-windows/about/" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/34/Hyper-V_logo.png" alt="Hyper-V" width="50" height="50" />
+  <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/4a429b52-fac5-4722-9c44-9d4e1d334047" />
   </a>
   <br>
   <a href="https://www.proxmox.com/" target="_blank">
